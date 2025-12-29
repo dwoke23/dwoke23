@@ -45,15 +45,11 @@
 <!-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
 
-### 📚 Language Preferences
-
-![ashutosh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshh-jhaa&show_icons=true&theme=midnight-purple&locale=en&layout=compact)
-
 ### 🔥 Streak
 
-![Ashutosh's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashutoshh-jhaa&theme=highContrast)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dwoke23&theme=highContrast)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshh-jhaa&theme=great_gatsby)
 
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashutoshh-jhaa&theme=great_gatsby) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashutoshh-jhaa&theme=great_gatsby) -->
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dwoke23&theme=great_gatsby) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dwoke23&theme=great_gatsby) -->
 #### Thanks for stopping by my GitHub profile. Dive into the repositories to discover my coding journey. Your feedback and contributions are highly appreciated. Let's innovate and create impactful solutions together! 💡✨"
