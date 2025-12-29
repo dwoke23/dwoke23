@@ -49,7 +49,7 @@
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dwoke23&theme=highContrast)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshh-jhaa&theme=great_gatsby)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dwoke23&theme=great_gatsby)
 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dwoke23&theme=great_gatsby) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dwoke23&theme=great_gatsby) -->
 #### Thanks for stopping by my GitHub profile. Dive into the repositories to discover my coding journey. Your feedback and contributions are highly appreciated. Let's innovate and create impactful solutions together! 💡✨"
