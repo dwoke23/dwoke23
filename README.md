@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tiwari Diwakar Kamlesh</h1>
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&color=9745F5&vCenter=true&center=true&width=460&lines=🚀A+full-stack+developer"</p> 
+<h1 align="center">Hii👋, I'm Tiwari Diwakar Kamlesh</h1>
+<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&color=9745F5&vCenter=true&center=true&width=460&lines=🚀A+Full-Stack+Web-Developer"</p> 
 <h3 align="center"></h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" alt="Coding" width="400" >
@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-- BTech CS student focused on full-stack development with a performance-first mindset.
+- BTech CSE Student focused on Full-Stack Web Development with a performance-first mindset.
 - Building React apps with clean architecture.
 - Passionate about system internals.
-- Currently working on full-stack web development projects with a focus on scalability.
-- Learning the MERN stack and deepening backend expertise.
+- Currently working on Full-Stack Web Development projects with a focus on scalability.
+- Learning the MERN Stack and deepening backend expertise.
 
 
 ### 🛠 Tech Stack & Tools
